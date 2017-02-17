@@ -1,2 +1,2 @@
-# TestSDASU
-Respository for github testing with SDASU Team
+# SDASU Digital Assets
+Respository for the SDASU Team
