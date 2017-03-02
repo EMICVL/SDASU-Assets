@@ -1,4 +1,5 @@
-# emicvl-SDASU
+# SDASU Digital Assets
+Respository for the SDASU Team
 
 [Scenarios and project documents] (https://sites.google.com/a/sdasu.edu.ge/emicvl/proektis-dokumentebi)
 ---------------------------------------------------------------------
