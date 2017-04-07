@@ -19,7 +19,7 @@ Added virtual Lab video(beta)
 Updated video of virtual lab.
 #####
 5.04.2017
-Uploaded New Video and Updated Virtual LAB files
+Uploaded New Video and Updated Virtual LAB files (See links Below) 
 #####
 [LAB Video](https://drive.google.com/file/d/0B8wU0OxMTNaoNkowOUlrUEppS3c/view?usp=sharing)
 #####
