@@ -25,5 +25,4 @@ Uploaded New Video and Updated Virtual LAB files (See links Below)
 #####
 [Virtual LAB Program](https://drive.google.com/drive/folders/0B8wU0OxMTNaoa2NZMklEajg2MlE?usp=sharing)
 #####
-
-
+Also added updated flowchart in JPG format, deleted old video, exported some documents into PDF, corrected links.
