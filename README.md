@@ -24,3 +24,5 @@ Also added updated flowchart in JPG format, deleted old video, exported some doc
 #####
 2.06.2017
 Added [Laboratory Practical Video](https://www.youtube.com/watch?v=98Qk_J8qJX0)
+#####
+Added English document about experiment of E.coil identification stages and flow
